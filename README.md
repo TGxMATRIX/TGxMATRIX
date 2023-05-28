@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+MATRIX+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Bca+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Kerala+%F0%9F%87%AE%F0%9F%87%B3" alt="Vampire" width="650" height="55">
 
-<!--
-**TGxMATRIX/TGxMATRIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TG-V4MP1R3}/count.svg"/></p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=TGxMATRIX&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TGxMATRIX&theme=highcontrast)](https://github.com/TGxMATRIX/github-readme-streak-stats)
+</div>
+
+<p align="middle">        
+<a href="https://telegram.dog/KP51107"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
